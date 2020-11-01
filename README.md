@@ -25,6 +25,10 @@ Ready to get started on working with examples and code?
 - [HTML](trailheads/HTML/)
 - [CSS](trailheads/CSS/)
 
+## ✨ Late Night Stories
+
+Stories that may or may not be real that will help in understanding how you can apply these new skills in a meaningful way.
+
 ## 🌲 Wilderness Survival
 
 🦁 and 🐯 and 🐻, oh my! Advanced learning courses.
