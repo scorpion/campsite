@@ -25,6 +25,10 @@ Ready to get started on working with examples and code?
 - [HTML](trailheads/HTML/)
 - [CSS](trailheads/CSS/)
 
+## 🌲 Wilderness Survival
+
+🦁 and 🐯 and 🐻, oh my! Advanced learning courses.
+
 ## 🔦 Help
 
 Please see the [docs](/docs/) for more information.
