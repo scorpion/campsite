@@ -1,13 +1,15 @@
 # 🏕️ campsite
 
-## 🍳 Rise and shine!
+Campsite is a starting place that will help on learning journeys.
+
+## 🍳 Rise and Shine!
 
 ## 🎒 Geting Ready
 
 ## 🗺️ Guides
 
-## 🥾 Trails
+## 🥾 Trailheads
+
+##
 
 ## 🔦 Help
-
-Campsite is a collection of documentation that will hopefully help on learning journeys.
