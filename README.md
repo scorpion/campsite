@@ -12,9 +12,9 @@ Get yourself if the right thought process and lets dig in on what will be an awe
 
 The tools and information you need to start on your adventure.
 
-- IDE
-- Environment
-- Software
+- [IDE](#)
+- [Environment](#)
+- [Software](#)
 
 ## 🗺️ Guides
 
