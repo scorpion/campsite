@@ -12,4 +12,4 @@ Campsite is a starting place that will help on learning journeys.
 
 ## 🔦 Help
 
-Please see the [docs](/docs/README.md) for more information.
+Please see the [docs](/docs/) for more information.
