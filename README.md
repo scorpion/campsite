@@ -31,7 +31,7 @@ Stories that may or may not be real that will help in understanding how you can 
 
 ## 🌲 Wilderness Survival
 
-🦁 and 🐯 and 🐻, oh my! Advanced learning courses.
+Advanced learning courses.
 
 ## 🔦 Help
 
