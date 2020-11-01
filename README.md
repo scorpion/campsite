@@ -1,6 +1,8 @@
 # 🏕️ campsite
 
-## 🍳 Getting Started
+## 🍳 Rise and shine!
+
+## 🎒 Geting Ready
 
 ## 🗺️ Guides
 
