@@ -6,6 +6,8 @@ Campsite is a starting place that will help on learning journeys.
 
 Get yourself if the right thought process and lets dig in on what will be an awesome learning jorney. Just like in school, please read the guide fully before you start on the trailheads. I am structuring this project in a way that will allow you to either start from the beginning and work your way though the materiel, or you can select a subject and work through the related materials.
 
+- [How to think about problems](#)
+
 ## 🎒 Geting Ready
 
 The tools and information you need to start on your adventure.
@@ -16,7 +18,7 @@ The tools and information you need to start on your adventure.
 
 ## 🗺️ Guides
 
-Guides are starting places for learning how to traverse through a trailhead.
+Guides are starting places for learning how to navigate through a trailhead.
 
 ## 🥾 Trailheads
 
