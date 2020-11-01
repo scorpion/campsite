@@ -2,7 +2,7 @@
 
 Campsite is a starting place that will help on learning journeys.
 
-## 🍳 Rise and 🌞 Shine!
+## 🍳 Rise and Shine!
 
 ## 🎒 Geting Ready
 
@@ -10,6 +10,6 @@ Campsite is a starting place that will help on learning journeys.
 
 ## 🥾 Trailheads
 
-##
-
 ## 🔦 Help
+
+Please see the [docs](/docs/README.md) for more information.
