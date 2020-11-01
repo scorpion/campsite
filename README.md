@@ -2,7 +2,7 @@
 
 Campsite is a starting place that will help on learning journeys.
 
-## 🍳 Rise and Shine!
+## 🍳 Rise and 🌞 Shine!
 
 ## 🎒 Geting Ready
 
