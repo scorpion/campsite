@@ -1,6 +1,11 @@
 # Guide to HTML
 
-Getting started with HTML.
+## Introduction to HTML
+
+Learning Resources
+
+- https://lab.github.com/githubtraining/introduction-to-html
+- https://www.w3schools.com/html/html_intro.asp
 
 ```html
 <!DOCTYPE html>

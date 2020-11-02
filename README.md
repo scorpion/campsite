@@ -25,7 +25,7 @@ Guides are starting places for learning how to navigate through a trailhead.
 
 Ready to get started on working with examples and code?
 
-- [HTML](trailheads/HTML/)
+- [HTML](https://lab.github.com/githubtraining/introduction-to-html)
 - [CSS](trailheads/CSS/)
 
 ## ✨ Late Night Stories
